@@ -1,1 +1,1 @@
-# Site-privicy
+# amirgpt-privacy
